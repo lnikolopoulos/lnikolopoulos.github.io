@@ -1,0 +1,26 @@
+- name: William Hanks (MSc)
+  photo: william_hanks.jpg
+  duration: 2016-17
+  info: M.Sc. Student 
+  email: 
+  number_educ: 2
+  education1: B.Sc. in Physics with Astronomy, DCU, (2016)
+  education2: M.Sc.  Dublin City University (2017)
+
+- name:  Cathal O'Broin (PhD)
+  photo: cathal_obroin.jpg
+  info: PhD student
+  duration: 2010-15
+  email: 
+  number_educ: 2
+  education1: B.Sc. in Physics with Astronomy, (2010)
+  education3: PhD Dublin City University (2015)!
+
+- name: Damien Middleton (PhD)
+  photo: damien_middleton.jpg
+  info: PhD student
+  duration: 2010-2014 
+  email: 
+  number_educ: 2
+  education1: B.Sc in Applied Physics, Dublin City University (2010)
+  education2: PhD, Dublin City University  (2014)
