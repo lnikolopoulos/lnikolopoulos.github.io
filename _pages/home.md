@@ -41,10 +41,10 @@ Our research group at the [Dublin City University/School of Physical Sciences](h
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/logos.jpg" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig-archemedes-pi.png" alt="Slide 5" style="width: 1000px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig-cdi.jpg" alt="Slide 5" style="width: 1000px" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig-archemedes-pi.png" alt="Slide 6" />
         </div>       
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/fig-antikithira.jpg" style="width: 1000px" alt="Slide 7" />
