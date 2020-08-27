@@ -9,7 +9,7 @@ permalink: /dcu
 
 # Teaching in DCU
 
-For any question you may have please sent email to [email](mailto:lampros.nikolopoulos@dcu.ie). 
+For any question you may have please sent email to [lampros.nikolopoulos@dcu.ie](mailto:lampros.nikolopoulos@dcu.ie). 
 
 
 <figure>
