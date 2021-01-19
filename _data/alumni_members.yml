@@ -1,24 +1,37 @@
-- name: William Hanks (MSc)
+- name: Tejaswi Katravulapally
+  photo: tejaswi.jpg
+  duration: 2016-20
+  info: PhD 
+  email: katravulapally.tejaswi2@mail.dcu.ie
+  number_educ: 2
+  education1: PhD Dublin City University (2020)
+  education2: M. Sc. in Physics, IIT Madras, Chennai, India (2014-16)
+  education3: B.Tech. in Electronics and Communication Engineering, The LNM Institute of Information, Technology, Jaiput, India (2009-13)
+
+
+
+
+- name: William Hanks
   photo: william_hanks.jpg
   duration: 2016-17
-  info: M.Sc. Student 
+  info: MSc  
   email: 
   number_educ: 2
   education1: B.Sc. in Physics with Astronomy, DCU, (2016)
   education2: M.Sc.  Dublin City University (2017)
 
-- name:  Cathal O'Broin (PhD)
+- name:  Cathal O'Broin
   photo: cathal_obroin.jpg
-  info: PhD student
+  info: PhD 
   duration: 2010-15
   email: 
   number_educ: 2
   education1: B.Sc. in Physics with Astronomy, (2010)
   education3: PhD Dublin City University (2015)!
 
-- name: Damien Middleton (PhD)
+- name: Damien Middleton
   photo: damien_middleton.jpg
-  info: PhD student
+  info: PhD
   duration: 2010-2014 
   email: 
   number_educ: 2

@@ -8,17 +8,18 @@
 #  education3:
 #  education4:
 
-- name: Philip Kelly
+- name: Daniel Hockey 
   photo: rock.jpg
-  info: Final Year Project (2019-20)
-  email: philip.okelly7@mail.dcu.ie
+  info: Final Year Project (2020-21)
+  email: Quantum Wavefunctions, Calculation and Visualization
+  email1: daniel.hockey2@mail.dcu.ie
   number_educ: 0
   education1:
 
-- name: Christine Mc Gearty 
-  photo: rock.jpg
-  info: Final Year Project (2019-20)
-  email: christine.mcgearty4@mail.dcu.ie   
-  number_educ: 0
-  education1:
+#- name: Christine Mc Gearty 
+#  photo: rock.jpg
+#  info: Final Year Project (2019-20)
+#  email: christine.mcgearty4@mail.dcu.ie   
+#  number_educ: 0
+#  education1:
 
